@@ -23,10 +23,6 @@ Este projeto foi desenvolvido como parte de um desafio proposto pelo curso de Ci
 
 Após as análises, concluiu-se que a **Loja 4** apresenta menor eficiência geral entre as unidades avaliadas, sendo a mais indicada para venda.
 
-## 📁 Como visualizar
-
-Você pode abrir o notebook do projeto diretamente no [Google Colab](https://colab.research.google.com/) ou em seu ambiente Jupyter local.
-
 ---
 
 Projeto desenvolvido para fins educacionais como parte do curso da Alura.
